@@ -15,7 +15,7 @@
       }, 
       {
         description: "Canario electronico",
-        url: "https://www.youtube.com/watch?v=wHnURFf8jOA&t=2s"
+        url: "https://www.youtube.com/embed/wHnURFf8jOA"
       }, 
     {
       description: "Disparador electronico",
@@ -88,11 +88,15 @@
       },
       {
         description: "canario electronico",
-        url: "https://www.youtube.com/embed/Wcdhh6_5rjk"
+        url: "https://www.youtube.com/embed/_Z_bOP-NSzg"
       },
       {
         description: "Disparador electronico",
         url: "https://www.youtube.com/embed/7inEZTuwkps"
+      },
+      {
+        description: "Sirena de policia",
+        url: "https://www.youtube.com/embed/NjcZv_20MD8"
       }
     ]
   },
