@@ -104,6 +104,7 @@ input[type="text"] {
   flex-direction: column;
   margin-bottom: 10px;
   margin-left: 10px;
+  margin-right: 12px;
 }
 
 .video-container p {
