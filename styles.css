@@ -274,3 +274,14 @@ input[type="text"] {
 .footUtp {
   width: 250px;
 }
+.foot .logoFoot .box h2 {
+  color: #fff;
+  margin-bottom: 25px;
+  font-size: 20px;
+}
+
+.foot .logoFoot .box p{
+  color: #efefef;
+  margin-bottom: 10px;
+  
+}
